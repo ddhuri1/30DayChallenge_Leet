@@ -2,8 +2,10 @@
 https://leetcode.com/problemset/30-day-challenge/
 
              Title		Acceptance	Difficulty	  
-33	Search in Rotated Sorted Array    		34.4%	Medium	
-49	Group Anagrams    		56.1%	Medium	
+             33	Search in Rotated Sorted Array    		34.4%	Medium	
+             49	Group Anagrams    		56.1%	Medium	
+
+
 53	Maximum Subarray    		46.2%	Easy	
 55	Jump Game    		34.4%	Medium	
 64	Minimum Path Sum    		53.8%	Medium	
@@ -27,6 +29,8 @@ https://leetcode.com/problemset/30-day-challenge/
 1008	Construct Binary Search Tree from Preorder Traversal    		78.3%	
 1046	Stone Weight    		62.1%	Easy	
 1143	Longest Common Subsequence    		58.3%	Medium	
+
+
 
 ####LOCKED:
 1426	Counting Elements    		58.6%	Easy	
