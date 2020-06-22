@@ -2,7 +2,7 @@
 https://leetcode.com/problemset/30-day-challenge/
 
             |           	 Title	                  |  Acceptance	|               Difficulty             |	
-            | :---                                                |     :---:       |                                 ---: |
+            | :---                                                |      :---:      |                                 ---: |
             | 33	Search in Rotated Sorted Array    	      |	34.4%	|                      Medium	   |
             | 49	Group Anagrams    		      |      56.1%	|                      Medium	   |
             | 53	Maximum Subarray    		      |      46.2%	|                      Easy	   |
