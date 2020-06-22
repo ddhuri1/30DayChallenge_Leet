@@ -1,7 +1,8 @@
 # 30DayChallenge_Leet v-June2020
 https://leetcode.com/problemset/30-day-challenge/
 
-                        Title		                    Acceptance	                Difficulty	  
+            |            Title		                    Acceptance	                Difficulty	
+            | ------------------------------------ | ------------------------------------- |
              33	Search in Rotated Sorted Array    		34.4%	                      Medium	
              49	Group Anagrams    		                56.1%	                      Medium	
              53	Maximum Subarray    		              46.2%	                      Easy	
@@ -30,9 +31,9 @@ https://leetcode.com/problemset/30-day-challenge/
              
 
 
-####LOCKED:
-1426	Counting Elements: Easy	
-1427	Perform String Shifts: Easy	
-1428	Leftmost Column with at Least a One: Medium	
-1429	First Unique Number: Medium	
-1430	Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tre: Medium	
+#### LOCKED:
+<br />       1426	Counting Elements: Easy	
+<br />       1427	Perform String Shifts: Easy	
+<br />       1428	Leftmost Column with at Least a One: Medium	
+<br />       1429	First Unique Number: Medium	
+<br />       1430	Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tre: Medium	
