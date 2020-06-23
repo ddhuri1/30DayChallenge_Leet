@@ -3,7 +3,7 @@ https://leetcode.com/problemset/30-day-challenge/
 
 |      No.|     	 Title	                  |  Acceptance	|               Difficulty             |	Description |
 | :---|:---                                                |      :---      |                                 :--- | :--- |
-|33|[ Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Java](./solutions/33.%20Search%20in%20Rotated%20Sorted%20Array.java)|0 ms|
+|33| Search in Rotated Sorted Array|34.4%|Medium|https://leetcode.com/problems/search-in-rotated-sorted-array/|
 | 49|	Group Anagrams    		      |      56.1%	|                      Medium	   |https://leetcode.com/problems/group-anagrams/|
 | 53|	Maximum Subarray    		      |      46.2%	|                      Easy	   |https://leetcode.com/problems/maximum-subarray/|
 | 55|	Jump Game    		      |      34.4%	|	          Medium	   |https://leetcode.com/problems/jump-game/|
